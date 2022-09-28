@@ -65,3 +65,5 @@ Resposabilities: <br>
 My Test Automation Projects
 
 - [cypress-practice](https://github.com/jairob92/CypressPractice.git) - Project where I cover the basic concepts of Cypress IO & integrate different technologies like cucumber, Jenkins and others
+
+- [Backend-Testing-with-Cypress](https://github.com/jairob92/Backend-Testing-with-Cypress)

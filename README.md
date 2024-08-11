@@ -1,4 +1,3 @@
-### Hey Jairo here 👋
 
 ---
 
@@ -21,7 +20,7 @@
 <h2>Professional Experience 💼</h2>
 
 <h4>Position: <strong>AFEX- QA Engineer</strong> </h4> <br>
-Resposabilities: <br>
+Responsabilities: <br>
 <br>
 ✔️ Designed detailed test plans that ensured all web and mobile applications were efficiently validated. <br>
 ✔️	Developed well-structured test cases that effectively evaluated the newly implemented features. <br>
@@ -30,7 +29,6 @@ Resposabilities: <br>
 ✔️	Executed automated test scenarios with Cypress and JavaScript, increasing efficiency by 45%. <br>
 
 <h4>Position: <strong>Codesa -  Business Analyst</strong> </h4> <br>
-<br>
 Responsabilities: <br>
 <br>
 ✔️ Collaborated with stakeholders to define functional requirements, improving business process efficiency by 25%. <br>
@@ -50,7 +48,7 @@ Responsabilities: <br>
 
 Position : Help Technology and Service - Requirments Analyst <br>
 <br>
-Resposabilities: <br>
+Responsabilities: <br>
 
 ✔️ Defined new functional and technical aspects with product owners and stakeholders, improving process efficiency. <br>
 ✔️ Participated with stakeholders in user acceptance testing, achieving 95% customer satisfaction. <br>

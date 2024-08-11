@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/23661657/187099130-1a4acfc8-feea-4c46-b0b4-bd2671fedaf6.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<p> <strong>Systems Engineer <strong> specialized in Information Technology Management with more than 6 years of experience in planning, design and implementation of software solutions with an agile approach that include management activities and requirements analysis, automated testing, manual testing risk management and Software quality assurance <p>
+<p> <strong> Detail-oriented and dynamic QA Tester skilled in validating web applications through detailed test plans and effective defect management. Proficient in collaborating with developers to ensure high-quality releases, with strong analytical skills and effective communication. Thrives in fast-paced environments and adapts to new testing techniques and technologies. </p>
 
 <h2>My Technicals tools 💻</h2>
 <br>
@@ -20,50 +20,48 @@
 <br>
 <h2>Professional Experience 💼</h2>
 
-<h4>Position: <strong>Quipux- Requeriment Analyst</strong> </h4> <br>
+<h4>Position: <strong>AFEX- QA Engineer</strong> </h4> <br>
 Resposabilities: <br>
 <br>
-✔️ Analize Requirements. <br>
-✔️ UML Diagrams : Activity, context, state. <br>
-✔️ Define systems behavior <br>
+✔️ Designed detailed test plans that ensured all web and mobile applications were efficiently validated. <br>
+✔️	Developed well-structured test cases that effectively evaluated the newly implemented features. <br>
+✔️	Applied a robust testing strategy, including functional, regression, and integration tests, ensuring 100% coverage.<br>
+✔️	Identified and documented test defects, working closely with developers to ensure effective resolution. <br>
+✔️	Executed automated test scenarios with Cypress and JavaScript, increasing efficiency by 45%. <br>
 
-Position : Codesa - Functional Manager <br>
+<h4>Position: <strong>Codesa -  Business Analyst</strong> </h4> <br>
+<br>
+Responsabilities: <br>
+<br>
+✔️ Collaborated with stakeholders to define functional requirements, improving business process efficiency by 25%. <br>
+✔️ Facilitated requirement workshops and documented results, successfully implementing clients’ business needs. <br>
+✔️ Applied problem-solving skills and attention to detail to identify ambiguities or gaps affecting software quality. <br>
+✔️ Assisted in identifying root causes of defects, contributing to a 30% reduction in resolution time. <br>
+
+<h4>Position: <strong>Help Technology and Service -  QA Analyst </strong> </h4> <br>
+
+Responsabilities: <br>
+
+✔️ Ensured the execution of all tests by evaluating scenarios, achieving 100% coverage of business cases. <br>
+✔️ Monitored the resolution of identified errors and defects, ensuring an effective resolution rate of 98%. <br>
+✔️ Collaborated with the team to propose improvements that enhanced product quality and performance by 10%. <br>
+✔️ Created detailed test reports, effectively communicating critical errors impacting product development. <br>
+✔️ Applied an agile approach to design and execute test cases, aligning with client priorities and changes. <br>
+
+Position : Help Technology and Service - Requirments Analyst <br>
+<br>
 Resposabilities: <br>
 
-✔️Analyze and document User Stories <br>
-✔️ Facilitator between the technical team and the client <br>
-✔️ Keep the product backlog updated <br>
-✔️ Design and Run functional tests: Components, Integration and Regression <br>
-✔️ Design and implement automated tests with POM and Screen Play Patterns <br>
-✔️ Run automated testing using Selenium framework with Java and Cucumber <br>
-✔️ Run UI automated testing using Cypress framework with JavaScript <br>
-✔️ Support and participate in the planning of SCRUM ceremonies (Sprint Retrospective, Sprint Planning, Sprint Review). <br>
-✔️ Manage the technical documentation of the project <br>
-
-Position : Help Technology and Service - Software area coordinator <br>
-Resposabilities: <br>
-
-✔️Analysis, design and implementation of information systems <br>
-✔️Guide the members of the SCRUM team in the development of each Sprint <br>
-✔️Provide support to requirements documentation and modeling activities underthe UML model <br>
-✔️Support to design and Run functional tests: Components, Integration and Regression. <br>
-✔️Monitor and evaluate test management in controlled QA environments <br>
-✔️Analyze the impact of change requests in relation to Information Systems <br> 
-✔️Design, implement and execute automated test cases using Selenium, serenity BDD and Java (maven) <br>
-✔️Coordinate the activities in each of the phases of the SDLC <br>
-
-Position : Help Technology and Service - Requierements Engineer <br>
-Resposabilities: <br>
-
-✔️Manage and analyze requirements for the systematization of processes in the health sector.<br>
-✔️Create change plans based on analyzed requirements <br>
-✔️Run functional tests in controlled scenarios. <br>
-✔️Document and model the requirements based on the UML language. <br>
-✔️Platform support for customer information systems.<br>
-✔️Desing tests cases using language Gherkin <br>
+✔️ Defined new functional and technical aspects with product owners and stakeholders, improving process efficiency. <br>
+✔️ Participated with stakeholders in user acceptance testing, achieving 95% customer satisfaction. <br>
+✔️ Efficiently adapted test execution according to stakeholder priorities, ensuring compliance with deliverables. <br>
+✔️ Demonstrated problem-solving skills in identifying root causes of errors, improving diagnostic effectiveness by 15%. <br>
 
 My Test Automation Projects
+<br>
 
-- [cypress-practice](https://github.com/jairob92/CypressPractice.git) - Project where I cover the basic concepts of Cypress IO & integrate different technologies like cucumber, Jenkins and others
+- [Selenium Automation with reports](https://github.com/jairob92/AutomationWithSelenium) - Project where I applied basic knowledge of Selenium with Java, utilizing Log4j2 for logging and ExtendReports for reporting.
 
-- [Backend-Testing-with-Cypress](https://github.com/jairob92/Backend-Testing-with-Cypress)
+- [UI Automation using Cypress with Cucumber](https://github.com/jairob92/AutomationWithCypress) - This repository contains a basic test automation project using Cypress and Cucumber. The chosen design approach is the Page Object Model (POM), enhancing code organization and maintenance. Additionally, the project utilizes the Gherkin language for scenario specification.
+  
+- [API Testing with Cypress ](https://github.com/jairob92/Backend-Testing-using-Cypress) - This practical project showcasing backend automation using Cypress! In this project, we use Cypress along with a local "json-server" to simulate an API and perform various HTTP requests.
